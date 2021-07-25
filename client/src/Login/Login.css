@@ -1,0 +1,18 @@
+
+label {
+  font-weight: 600;
+  color: #2BAE66FF;
+  padding-top: 8px;
+
+  
+}
+
+.additional-options {
+  display: flex;
+  justify-content: space-between;
+}
+.option-list {
+  color: #2BAE66FF;
+  font-size: 13px;
+  font-weight: 600;
+}

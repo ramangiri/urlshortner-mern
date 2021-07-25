@@ -1,0 +1,35 @@
+.homepage {
+  display: flex;
+  flex-direction: column; 
+justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 2%;
+} 
+
+.homepage-heading {
+  text-align: center;
+  padding: 30px 0 30px 0;
+  background-color: #2BAE66FF;
+  color: #fff;
+} 
+ .card1{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  background-color: #22b766;
+  color: aliceblue;
+  margin: 50px;
+}
+.counter {
+  height: 100px;
+  margin-top: 25px;
+}
+.details {
+  height: 100px;
+  
+}
+.button-section {
+  display: flex;
+  justify-content: center;
+}
